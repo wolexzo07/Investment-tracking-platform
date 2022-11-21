@@ -1,5 +1,5 @@
 <?php
-$host="localhost";$user = "root";$pass = "follower1990";$db ="fxbids";
+$host="localhost";$user = "root";$pass = "";$db ="fxbids";
 //$host="localhost";$user = "abocentc_fxbid";$pass = "Affinity1990?";$db ="abocentc_fxbid";
 //$host="localhost";$user = "abocentc_fxbid";$pass = "Affinity1990?";$db ="abocentc_fxbid";
 //$host="db5000221944.hosting-data.io";$user = "dbu438638";$pass = "Affinity1990?";$db ="dbs216682";
