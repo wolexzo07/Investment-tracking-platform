@@ -1,0 +1,26 @@
+<style type="text/css">
+select{
+	height:50px;
+}
+</style>
+<form method="post" enctype="multipart/form-data" action="">
+<p>Attach Testifier / News Avatar : </p>
+<input type="file" name="pic"/>
+<p>Testifier / Title :</p>
+<input type="text" name="title" style="width:500px;padding:10px;"/>
+<p>Occupation :</p>
+<input type="text" name="occ" style="width:500px;padding:10px;"/>
+<p>News / Testimony: </p>
+<textarea name="note" style="width:500px;padding:10px;" placeholder="Enter full testimony"></textarea>
+<p>Post as : </p>
+<select name="action" style="width:200px;">
+<option value="testify">Testimony</option>
+<option value="news">News</option>
+</select>
+
+<br/>
+<br/>
+<input type="submit" style="padding:10px;" name="subm"/>
+</form>
+
+success
